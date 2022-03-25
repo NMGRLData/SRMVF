@@ -1,10 +1,10 @@
 {
     "AX": {
-        "error": 0.000225831176925469,
+        "error": 0.0002533816281062591,
         "fit": "Weighted Mean",
         "references": [
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-03-J-4636",
                 "uuid": "9555dbb4-8ee0-4168-9d59-983d87eb0cf9"
             },
@@ -106,7 +106,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 6.600975,
-        "value": 0.9997562803626947
+        "value": 0.9997552739205718
     },
     "CDD": {
         "error": 0.0015596548666064246,
